@@ -2,7 +2,7 @@
 
 ---
 
-## automation/automated-test-passer.py — Automated Test Passer
+## Automated Test Passer – [automation/automated-test-passer.py](https://github.com/dimagordienko/python-toolbox/blob/main/automation/automated-test-passer.py)
 
 ### Description:
 
@@ -30,7 +30,7 @@ Saves time when completing tests.
 
 ---
 
-## automation/salebot-analytics.py — Salebot → Google Sheets Analytics Transfer
+## Salebot → Google Sheets Analytics Transfer – [automation/salebot-analytics.py](https://github.com/dimagordienko/python-toolbox/blob/main/automation/salebot-analytics.py)
 
 ### Description:
 
@@ -59,7 +59,7 @@ Automates reporting, conversion calculations, and improves data handling (Salebo
 
 ---
 
-## telegram/news-aggregator.py — AI News Aggregator
+## AI News Aggregator – [telegram/news-aggregator.py](https://github.com/dimagordienko/python-toolbox/blob/main/telegram/news-aggregator.py)
 
 ### Description:
 
@@ -86,7 +86,7 @@ Automates content creation and adapts news to the target audience (RAG system).
 
 ---
 
-## telegram/support-bot.py — Multi-Admin Support Bot
+## Multi-Admin Support Bot – [telegram/support-bot.py](https://github.com/dimagordienko/python-toolbox/blob/main/telegram/support-bot.py)
 
 ### Description:
 
@@ -114,7 +114,7 @@ Reduces manager workload and simplifies communication with clients.
 
 ---
 
-## telegram/vk-parser.py — VK Post Parser
+## VK Post Parser – [telegram/vk-parser.py](https://github.com/dimagordienko/python-toolbox/blob/main/telegram/vk-parser.py)
 
 ### Description:
 
@@ -141,7 +141,7 @@ Automates content reposting to news or themed channels.
 
 ---
 
-## data-operation/table-processing.py — Table Processing Module (.csv, .pickle, .txt)
+## Table Processing Module (.csv, .pickle, .txt) – [data-operation/table-processing.py](https://github.com/dimagordienko/python-toolbox/blob/main/data-operation/table-processing.py)
 
 ### Description:
 
