@@ -2,7 +2,7 @@
 
 ---
 
-## hardClicker.py — Automated Test Passer
+## automation/automated-test-passer.py — Automated Test Passer
 
 ### Description:
 
@@ -30,7 +30,7 @@ Saves time when completing tests.
 
 ---
 
-## AutoUTM_orig.py — Salebot → Google Sheets Analytics Transfer
+## automation/salebot-analytics.py — Salebot → Google Sheets Analytics Transfer
 
 ### Description:
 
@@ -59,7 +59,7 @@ Automates reporting, conversion calculations, and improves data handling (Salebo
 
 ---
 
-## RssSpamer.py — AI News Aggregator
+## telegram/news-aggregator.py — AI News Aggregator
 
 ### Description:
 
@@ -86,7 +86,7 @@ Automates content creation and adapts news to the target audience (RAG system).
 
 ---
 
-## Reklamagorodbot.py — Multi-Admin Support Bot
+## telegram/support-bot.py — Multi-Admin Support Bot
 
 ### Description:
 
@@ -114,7 +114,7 @@ Reduces manager workload and simplifies communication with clients.
 
 ---
 
-## parser.py — VK Post Parser
+## telegram/vk-parser.py — VK Post Parser
 
 ### Description:
 
@@ -141,7 +141,7 @@ Automates content reposting to news or themed channels.
 
 ---
 
-## files_deals.py — Table Processing Module (.csv, .pickle, .txt)
+## data-operation/table-processing.py — Table Processing Module (.csv, .pickle, .txt)
 
 ### Description:
 
